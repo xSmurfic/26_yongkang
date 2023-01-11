@@ -1,8 +1,0 @@
-Unit Testing
-What is unit Testing?
-Unit Testing is conducted by Jie Cheng
-It is type of (blackbox/whitebox testing)
-Integration Testing
-What is Integration Testing?
-Integration Testing is conducted by Jie Cheng
-It is type of (blackbox/whitebox testing)
